@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtmUygulamasi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c668facb8daeb5eea434805251fddf870dbc848d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e842c869a54e16272c9ebc1902eaee78aa50e1be")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtmUygulamasi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtmUygulamasi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
