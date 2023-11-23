@@ -1,0 +1,15 @@
+C:\Users\cengizhan\Desktop\C_SharpWissen\AtmUygulamasi\AtmUygulamasi\bin\Debug\net7.0\AtmUygulamasi.exe
+C:\Users\cengizhan\Desktop\C_SharpWissen\AtmUygulamasi\AtmUygulamasi\bin\Debug\net7.0\AtmUygulamasi.deps.json
+C:\Users\cengizhan\Desktop\C_SharpWissen\AtmUygulamasi\AtmUygulamasi\bin\Debug\net7.0\AtmUygulamasi.runtimeconfig.json
+C:\Users\cengizhan\Desktop\C_SharpWissen\AtmUygulamasi\AtmUygulamasi\bin\Debug\net7.0\AtmUygulamasi.dll
+C:\Users\cengizhan\Desktop\C_SharpWissen\AtmUygulamasi\AtmUygulamasi\bin\Debug\net7.0\AtmUygulamasi.pdb
+C:\Users\cengizhan\Desktop\C_SharpWissen\AtmUygulamasi\AtmUygulamasi\obj\Debug\net7.0\AtmUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengizhan\Desktop\C_SharpWissen\AtmUygulamasi\AtmUygulamasi\obj\Debug\net7.0\AtmUygulamasi.AssemblyInfoInputs.cache
+C:\Users\cengizhan\Desktop\C_SharpWissen\AtmUygulamasi\AtmUygulamasi\obj\Debug\net7.0\AtmUygulamasi.AssemblyInfo.cs
+C:\Users\cengizhan\Desktop\C_SharpWissen\AtmUygulamasi\AtmUygulamasi\obj\Debug\net7.0\AtmUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\cengizhan\Desktop\C_SharpWissen\AtmUygulamasi\AtmUygulamasi\obj\Debug\net7.0\AtmUygulamasi.sourcelink.json
+C:\Users\cengizhan\Desktop\C_SharpWissen\AtmUygulamasi\AtmUygulamasi\obj\Debug\net7.0\AtmUygulamasi.dll
+C:\Users\cengizhan\Desktop\C_SharpWissen\AtmUygulamasi\AtmUygulamasi\obj\Debug\net7.0\refint\AtmUygulamasi.dll
+C:\Users\cengizhan\Desktop\C_SharpWissen\AtmUygulamasi\AtmUygulamasi\obj\Debug\net7.0\AtmUygulamasi.pdb
+C:\Users\cengizhan\Desktop\C_SharpWissen\AtmUygulamasi\AtmUygulamasi\obj\Debug\net7.0\AtmUygulamasi.genruntimeconfig.cache
+C:\Users\cengizhan\Desktop\C_SharpWissen\AtmUygulamasi\AtmUygulamasi\obj\Debug\net7.0\ref\AtmUygulamasi.dll
