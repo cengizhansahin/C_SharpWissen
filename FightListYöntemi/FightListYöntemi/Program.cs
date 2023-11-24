@@ -4,30 +4,52 @@ namespace Fight
 {
     internal class Program
     {
+        public class Character
+        {
+            public string isim { get; set; }
+            public int saldiriGucu { get; set; }
+            public int saglik { get; set; }
+            public int iskalama { get; set; }
+        }
         static void Main(string[] args)
         {
-            int[,] ozellikler =
+            List<Character> Karakterler = new List<Character>
             {
-                {20,100,25},  // Şavaşçı güç, savunma ve ıskalama
-                {18,110,23},   // Sura güç, savunma ve ıskalama
-                {15,120,20},   // Şaman güç, savunma ve ıskalama
-                {30,80,35}    // Ninja güç, savunma ve ıskalama
+                new Character {isim="Savaşçı",saldiriGucu=20, saglik=100,iskalama=20},
+                new Character {isim="Sura", saldiriGucu=18, saglik=110,iskalama=18},
+                new Character {isim="Şaman", saldiriGucu=15, saglik=120,iskalama=15},
+                new Character {isim="Ninja", saldiriGucu=30, saglik=80,iskalama=30},
             };
 
-            string[] karakterIsimleri = { "Savaşçı", "Sura", "Şaman", "Ninja" };
+            Console.WriteLine("Karakterler: ");
+            Console.WriteLine();
+            foreach (var item in Karakterler)
+            {
+                Console.WriteLine($"{item.isim}: saldırı gücü: {item.saldiriGucu}, sağlık: {item.saglik}, iskalama: {item.iskalama}");
+                Console.WriteLine("--------------------------------------------------------");
+            }
 
-            Console.WriteLine("Karakterler\n\n1) Savaşçı\n2) Sura\n3) Ninja\n4) Şaman");
+            Console.WriteLine();
+            Console.WriteLine("1) Savaşçı\n2) Sura\n3) Şaman\n4) Ninja");
             Console.WriteLine();
             Console.Write("Lütfen karakter seçiniz: ");
             int secim = Convert.ToInt32(Console.ReadLine());
 
-            // Geçerli seçim yapana kadar while döngüsü. eğe burası aktif olursa switch case deki default kısmının bir önemi kalmıyor!
-            while (secim < 0 | secim > 4)
+            while (secim < 1 | secim > 4)
             {
                 Console.Clear();
-                Console.WriteLine("Lütfen geçerli bir karakter giriniz!");
+                Console.WriteLine("Karakterler: ");
                 Console.WriteLine();
-                Console.WriteLine("Karakterler\n\n1) Savaşçı\n2) Sura\n3) Ninja\n4) Şaman");
+                foreach (var item in Karakterler)
+                {
+                    Console.WriteLine($"{item.isim}: saldırı gücü: {item.saldiriGucu}, sağlık: {item.saglik}, iskalama: {item.iskalama}");
+                    Console.WriteLine("--------------------------------------------------------");
+
+                }
+                Console.WriteLine();
+                Console.WriteLine("Lütfen geçerli bir karakter seçiniz!");
+                Console.WriteLine();
+                Console.WriteLine("1) Savaşçı\n2) Sura\n3) Şaman\n4) Ninja");
                 Console.WriteLine();
                 Console.Write("Lütfen karakter seçiniz: ");
                 secim = Convert.ToInt32(Console.ReadLine());
@@ -36,74 +58,50 @@ namespace Fight
             Random random = new Random();
             int pcIndex = random.Next(0, 4);
 
-            // aynı karakteri seçemezsiniz uyarısı vermeden random olarak pc karakter değiştiren while döngüsü. eğer burası çalıştırılırsa aşağıdaki if bloğu iptal oluyor. çünkü kontrole gerek kalmıyor.
+
             while ((secim - 1) == pcIndex)
             {
                 pcIndex = random.Next(0, 4);
             }
 
-            //if (pcIndex == (secim - 1))
-            //{
-            //    Console.Clear();
-            //    Console.WriteLine("Aynı karakteri seçemezsiniz!");
-            //    Console.WriteLine();
-            //    while (pcIndex == (secim - 1))
-            //    {
-            //        pcIndex = random.Next(0, 4);
-
-            //        Console.WriteLine("Karakterler\n1) Savaşçı\n2) Sura\n3) Ninja\n4) Şaman");
-            //        Console.WriteLine();
-            //        Console.Write("Lütfen yeni karakter seçiniz: ");
-            //        secim = Convert.ToInt32(Console.ReadLine());
-            //    }
-            //}
-
-            // bu atamaları burada yapamıyorum çüknü yukarıda if bloğu aktifken 4 ten büyük bir değer girdiğimde özelliklerin satır bölümünde aranan indeks bulunamadığı için switch case'e ulaşamadan hata fırlatıyor. 
-            //int kkSaldiri = ozellikler[secim - 1, 0];
-            //int kkSaglik = ozellikler[secim - 1, 1];
-
-            //int pcSaldiri = ozellikler[pcIndex, 0];
-            //int pcSaglik = ozellikler[pcIndex, 1];
 
             switch (secim)
             {
                 case 1:
                     Console.Clear();
-                    Console.WriteLine($"Kullanıcı karakter: {karakterIsimleri[secim - 1]}");
-                    Console.WriteLine($"Bilgisayarın seçtiği karakter: {karakterIsimleri[pcIndex]}");
-                    Saldir(ozellikler, secim, pcIndex);
+                    Console.WriteLine($"Kullanıcı karakter: {Karakterler[secim - 1].isim}");
+                    Console.WriteLine($"Bilgisayarın seçtiği karakter: {Karakterler[pcIndex].isim}");
+                    Saldir(Karakterler, secim, pcIndex);
                     break;
                 case 2:
                     Console.Clear();
-                    Console.WriteLine($"Kullanıcı karakter: {karakterIsimleri[secim - 1]}");
-                    Console.WriteLine($"Bilgisayarın seçtiği karakter: {karakterIsimleri[pcIndex]}");
-                    Saldir(ozellikler, secim, pcIndex);
+                    Console.WriteLine($"Kullanıcı karakter: {Karakterler[secim - 1].isim}");
+                    Console.WriteLine($"Bilgisayarın seçtiği karakter: {Karakterler[pcIndex].isim}");
+                    Saldir(Karakterler, secim, pcIndex);
                     break;
                 case 3:
                     Console.Clear();
-                    Console.WriteLine($"Kullanıcı karakter: {karakterIsimleri[secim - 1]}");
-                    Console.WriteLine($"Bilgisayarın seçtiği karakter: {karakterIsimleri[pcIndex]}");
-                    Saldir(ozellikler, secim, pcIndex);
+                    Console.WriteLine($"Kullanıcı karakter: {Karakterler[secim - 1].isim}");
+                    Console.WriteLine($"Bilgisayarın seçtiği karakter: {Karakterler[pcIndex].isim}");
+                    Saldir(Karakterler, secim, pcIndex);
                     break;
                 case 4:
                     Console.Clear();
-                    Console.WriteLine($"Kullanıcı karakter: {karakterIsimleri[secim - 1]}");
-                    Console.WriteLine($"Bilgisayarın seçtiği karakter: {karakterIsimleri[pcIndex]}");
-                    Saldir(ozellikler, secim, pcIndex);
+                    Console.WriteLine($"Kullanıcı karakter: {Karakterler[secim - 1].isim}");
+                    Console.WriteLine($"Bilgisayarın seçtiği karakter: {Karakterler[pcIndex].isim}");
+                    Saldir(Karakterler, secim, pcIndex);
                     break;
                 default:
-                    Console.WriteLine();
-                    //Console.WriteLine("Lütfen geçerli bir karakter giriniz! Switch Case!");
                     break;
             }
         }
-        public static void Saldir(int[,] ozellikler, int secim, int pcIndex)
+        public static void Saldir(List<Character> Karakterler, int secim, int pcIndex)
         {
-            int kkSaldiri = ozellikler[secim - 1, 0];
-            int kkSaglik = ozellikler[secim - 1, 1];
+            int kkSaldiri = Karakterler[secim - 1].saldiriGucu;
+            int kkSaglik = Karakterler[secim - 1].saglik;
 
-            int pcSaldiri = ozellikler[pcIndex, 0];
-            int pcSaglik = ozellikler[pcIndex, 1];
+            int pcSaldiri = Karakterler[pcIndex].saldiriGucu;
+            int pcSaglik = Karakterler[pcIndex].saglik;
 
             bool kullaniciSirasi = true;
 
@@ -120,8 +118,8 @@ namespace Fight
 
                 if (saldir.ToLower().Trim() == "saldir")
                 {
-                    int kullaniciIska = ozellikler[secim - 1, 2];
-                    int pcIska = ozellikler[pcIndex, 2];
+                    int kullaniciIska = Karakterler[secim - 1].iskalama;
+                    int pcIska = Karakterler[pcIndex].iskalama;
                     Random random = new Random();
                     int randomKullanici = random.Next(0, 101);
                     Random random2 = new Random();
