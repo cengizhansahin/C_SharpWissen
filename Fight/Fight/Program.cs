@@ -42,28 +42,6 @@ namespace Fight
                 pcIndex = random.Next(0, 4);
             }
 
-            //if (pcIndex == (secim - 1))
-            //{
-            //    Console.Clear();
-            //    Console.WriteLine("Aynı karakteri seçemezsiniz!");
-            //    Console.WriteLine();
-            //    while (pcIndex == (secim - 1))
-            //    {
-            //        pcIndex = random.Next(0, 4);
-
-            //        Console.WriteLine("Karakterler\n1) Savaşçı\n2) Sura\n3) Ninja\n4) Şaman");
-            //        Console.WriteLine();
-            //        Console.Write("Lütfen yeni karakter seçiniz: ");
-            //        secim = Convert.ToInt32(Console.ReadLine());
-            //    }
-            //}
-
-            // bu atamaları burada yapamıyorum çüknü yukarıda if bloğu aktifken 4 ten büyük bir değer girdiğimde özelliklerin satır bölümünde aranan indeks bulunamadığı için switch case'e ulaşamadan hata fırlatıyor. 
-            //int kkSaldiri = ozellikler[secim - 1, 0];
-            //int kkSaglik = ozellikler[secim - 1, 1];
-
-            //int pcSaldiri = ozellikler[pcIndex, 0];
-            //int pcSaglik = ozellikler[pcIndex, 1];
 
             switch (secim)
             {
