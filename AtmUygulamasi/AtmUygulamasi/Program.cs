@@ -20,10 +20,10 @@ namespace AtmUygulamasi
                 switch (secim)
                 {
                     case 1:
-                        ParaCekme(ref bakiye);
+                        bakiye = ParaCekme(bakiye);
                         break;
                     case 2:
-                        ParaYatır(ref bakiye);
+                        bakiye = ParaYatır(bakiye);
                         break;
                     case 3:
                         Console.Clear();
@@ -39,7 +39,7 @@ namespace AtmUygulamasi
                 }
             }
         }
-        public static void ParaCekme(ref int bakiye)
+        public static int ParaCekme(int bakiye)
         {
             Console.Clear();
             Console.Write("Lütfen çekmek istediğiniz miktarı girin: ");
@@ -56,8 +56,9 @@ namespace AtmUygulamasi
                 bakiye -= c_para;
                 Console.WriteLine($"Çekilen para tutarı: {c_para}, yeni bakiye: {bakiye}");
             }
+            return bakiye;
         }
-        public static void ParaYatır(ref int bakiye)
+        public static int ParaYatır(int bakiye)
         {
             Console.Clear();
             Console.Write("Lütfen yatırmak istediğiniz miktarı girin: ");
@@ -66,6 +67,7 @@ namespace AtmUygulamasi
 
             bakiye += y_para;
             Console.WriteLine($"Yatırılan para tutarı: {y_para}, yeni bakiye: {bakiye}");
+            return bakiye;
         }
     }
 }

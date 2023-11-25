@@ -7,11 +7,11 @@ namespace DateTimeFunk
         static void Main(string[] args)
         {
             DateTime currentTime = DateTime.Now;
+
             //Console.WriteLine(currentTime);
             //CultureInfo trCulture = new CultureInfo("tr-TR");
             //string formatlanmisZaman = currentTime.ToString("dd-MM-yyyy");
             //string formatlanmisZaman = currentTime.ToString("dd MMMM yyyy dddd");
-
 
             //int yil = currentTime.Year;
             //Console.WriteLine(yil);
