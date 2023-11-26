@@ -52,11 +52,11 @@ namespace Encasulation
                 //kitap.KitapSayfaSayisi = int.Parse(Console.ReadLine());
                 //KitapListesi.Add(kitap);
 
-                Console.WriteLine($"Lütfen {i + 1}. kitabın adını giriniz");
+                Console.Write($"Lütfen {i + 1}. kitabın adını giriniz");
                 string kitapAdi = Console.ReadLine();
-                Console.WriteLine($"Lütfen {i + 1}. kitabın yazarını giriniz");
+                Console.Write($"Lütfen {i + 1}. kitabın yazarını giriniz");
                 string kitapYazari = Console.ReadLine();
-                Console.WriteLine($"Lütfen {i + 1}. kitabın sayfa sayısını giriniz");
+                Console.Write($"Lütfen {i + 1}. kitabın sayfa sayısını giriniz");
                 int kitapSayfaSayisi = int.Parse(Console.ReadLine());
 
                 Kitap kitap = new Kitap
