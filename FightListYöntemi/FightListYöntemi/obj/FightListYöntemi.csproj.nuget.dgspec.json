@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cengizhan\\Desktop\\C_SharpWissen\\FightListYöntemi\\FightListYöntemi\\FightListYöntemi.csproj": {}
+    "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\FightListYöntemi\\FightListYöntemi\\FightListYöntemi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cengizhan\\Desktop\\C_SharpWissen\\FightListYöntemi\\FightListYöntemi\\FightListYöntemi.csproj": {
+    "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\FightListYöntemi\\FightListYöntemi\\FightListYöntemi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cengizhan\\Desktop\\C_SharpWissen\\FightListYöntemi\\FightListYöntemi\\FightListYöntemi.csproj",
+        "projectUniqueName": "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\FightListYöntemi\\FightListYöntemi\\FightListYöntemi.csproj",
         "projectName": "FightListYöntemi",
-        "projectPath": "C:\\Users\\cengizhan\\Desktop\\C_SharpWissen\\FightListYöntemi\\FightListYöntemi\\FightListYöntemi.csproj",
-        "packagesPath": "C:\\Users\\cengizhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cengizhan\\Desktop\\C_SharpWissen\\FightListYöntemi\\FightListYöntemi\\obj\\",
+        "projectPath": "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\FightListYöntemi\\FightListYöntemi\\FightListYöntemi.csproj",
+        "packagesPath": "C:\\Users\\BRIGHT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\FightListYöntemi\\FightListYöntemi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cengizhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BRIGHT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

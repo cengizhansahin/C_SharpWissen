@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FightListYöntemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+273d7b05e6b7c3b057d062504ba2432a2f5d46d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FightListYöntemi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FightListYöntemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
