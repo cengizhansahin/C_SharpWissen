@@ -9,20 +9,25 @@
 
             Console.Write("\nLütfen Kaç adet personel eklemek istediğini yazınız: ");
             int calisanSayisi = Convert.ToInt32(Console.ReadLine());
-            //double toplamMaas = 0;
 
             for (int i = 0; i < calisanSayisi; i++)
             {
-                Calisan calisan = new Calisan();
+                //Calisan calisan = new Calisan();
 
                 Console.Write($"Lütfen {i + 1}. çalışanın adını giriniz: ");
-                calisan.CalisanAdi = Console.ReadLine();
+                string CalisanAdi = Console.ReadLine();
                 Console.Write($"Lütfen {i + 1}. çalışanın departmanını giriniz: ");
-                calisan.CalisanDepartmani = Console.ReadLine();
+                string CalisanDepartmani = Console.ReadLine();
                 Console.Write($"Lütfen {i + 1}. çalışanın maaşını giriniz: ");
-                calisan.CalisanMaas = double.Parse(Console.ReadLine());
+                double CalisanMaas = double.Parse(Console.ReadLine());
+                //calisanlar.Add(calisan);
+                Calisan calisan = new Calisan
+                {
+                    CalisanAdi = CalisanAdi,
+                    CalisanDepartmani = CalisanDepartmani,
+                    CalisanMaas = CalisanMaas
+                };
                 calisanlar.Add(calisan);
-                //toplamMaas += calisan.CalisanMaas;
             }
 
             Console.WriteLine("****************************\nÇalışan Bilgileri:");
@@ -33,7 +38,7 @@
                 Console.WriteLine($"Çalışan adı: {item.CalisanAdi}, Çalışan departman: {item.CalisanDepartmani}");
             }
             double ortMaas = Calisan.ortHesapla(calisanlar);
-            Console.WriteLine($"****************************\nToplam maaş ortalaması: {ortMaas},");
+            Console.WriteLine($"****************************\nToplam maaş ortalaması: {ortMaas}");
         }
 
         //yeni bir işçi sınıfı oluşturulacak. Adı, departmanı ve maaşı tutulacak. aynı zamanda maaş ortalamasını hesaplayan bir metod yazılacak. bu metod tüm çalışanların maaşlarının toplamının ortalamasını dönecek. sonra da şirkete personel ekleme uygulaması başlaycak yine kaç adet personel eklemek isterseniz şeklinde sorulacak ve ekleme yapılacak. finalde de hem tüm çalışanlar e bilgileri gösterilecek hemde ort maaş yazdıracak.

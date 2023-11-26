@@ -5,7 +5,7 @@ namespace Encasulation
     class MyClass
     {
         int yas = 20;
-        string soyad;
+
         //Kısa propert örneği --> prop yazıp iki kere tab tuşuna tıklanır
         //public int yas { get; set; }
         public int Yas
@@ -31,10 +31,10 @@ namespace Encasulation
             //m1.Yas = 100;
             //Console.WriteLine(m1.Yas);
 
-            //Bakiye b1 = new Bakiye();
-            //Console.WriteLine(b1.BakiyeHesapla);
-            //b1.BakiyeHesapla = 800;
-            //Console.WriteLine(b1.BakiyeHesapla);
+            Bakiye b1 = new Bakiye();
+            Console.WriteLine(b1.BakiyeHesapla);
+            b1.BakiyeHesapla = 1000;
+            Console.WriteLine(b1.BakiyeHesapla);
 
             List<Kitap> KitapListesi = new List<Kitap>();
 
