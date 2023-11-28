@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi.csproj": {}
+    "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\SinifCalisma\\SinifCalisma\\SinifCalisma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi.csproj": {
+    "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\SinifCalisma\\SinifCalisma\\SinifCalisma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi.csproj",
-        "projectName": "BiletOtomasyonSistemi",
-        "projectPath": "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi.csproj",
+        "projectUniqueName": "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\SinifCalisma\\SinifCalisma\\SinifCalisma.csproj",
+        "projectName": "SinifCalisma",
+        "projectPath": "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\SinifCalisma\\SinifCalisma\\SinifCalisma.csproj",
         "packagesPath": "C:\\Users\\BRIGHT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\obj\\",
+        "outputPath": "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\SinifCalisma\\SinifCalisma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRIGHT\\AppData\\Roaming\\NuGet\\NuGet.Config",
