@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Encasulation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06aad76e1577df4b8f44f95e03322a7556773ac5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f57c4e3dd97445d57dfa94b554e53e8e885637f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Encasulation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Encasulation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

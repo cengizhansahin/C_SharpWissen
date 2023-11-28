@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cengizhan\\Desktop\\C_SharpWissen\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi.csproj": {}
+    "C:\\Users\\cengizhan\\Desktop\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cengizhan\\Desktop\\C_SharpWissen\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi.csproj": {
+    "C:\\Users\\cengizhan\\Desktop\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cengizhan\\Desktop\\C_SharpWissen\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi.csproj",
+        "projectUniqueName": "C:\\Users\\cengizhan\\Desktop\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi.csproj",
         "projectName": "BiletOtomasyonSistemi",
-        "projectPath": "C:\\Users\\cengizhan\\Desktop\\C_SharpWissen\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi.csproj",
+        "projectPath": "C:\\Users\\cengizhan\\Desktop\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi.csproj",
         "packagesPath": "C:\\Users\\cengizhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cengizhan\\Desktop\\C_SharpWissen\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\obj\\",
+        "outputPath": "C:\\Users\\cengizhan\\Desktop\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\BiletOtomasyonSistemi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cengizhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
