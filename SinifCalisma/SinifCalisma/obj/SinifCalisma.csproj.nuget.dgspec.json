@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\SinifCalisma\\SinifCalisma\\SinifCalisma.csproj": {}
+    "C:\\Users\\cengizhan\\Desktop\\C_SharpWissen\\SinifCalisma\\SinifCalisma\\SinifCalisma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\SinifCalisma\\SinifCalisma\\SinifCalisma.csproj": {
+    "C:\\Users\\cengizhan\\Desktop\\C_SharpWissen\\SinifCalisma\\SinifCalisma\\SinifCalisma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\SinifCalisma\\SinifCalisma\\SinifCalisma.csproj",
+        "projectUniqueName": "C:\\Users\\cengizhan\\Desktop\\C_SharpWissen\\SinifCalisma\\SinifCalisma\\SinifCalisma.csproj",
         "projectName": "SinifCalisma",
-        "projectPath": "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\SinifCalisma\\SinifCalisma\\SinifCalisma.csproj",
-        "packagesPath": "C:\\Users\\BRIGHT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\SinifCalisma\\SinifCalisma\\obj\\",
+        "projectPath": "C:\\Users\\cengizhan\\Desktop\\C_SharpWissen\\SinifCalisma\\SinifCalisma\\SinifCalisma.csproj",
+        "packagesPath": "C:\\Users\\cengizhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cengizhan\\Desktop\\C_SharpWissen\\SinifCalisma\\SinifCalisma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\BRIGHT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cengizhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

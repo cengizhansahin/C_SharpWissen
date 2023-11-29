@@ -5,14 +5,19 @@
         static void Main(string[] args)
         {
             List<Ticket> tickets = new List<Ticket>();
-            List<Route> routes = new List<Route>();
+            List<Route> routes = new List<Route>
+            {
+                new Route ("Trabzon-Manisa",500),
+                new Route("Ankara-İstanbul", 1100),
+                new Route("İstanbul-İzmir", 400)
+            };
 
-            Route route1 = new Route("Trabzon-Manisa", 500);
-            routes.Add(route1);
-            Route route2 = new Route("Ankara-İstanbul", 1100);
-            routes.Add(route2);
-            Route route3 = new Route("İstanbul-İzmir", 400);
-            routes.Add(route3);
+            //Route route1 = new Route("Trabzon-Manisa", 500);
+            //routes.Add(route1);
+            //Route route2 = new Route("Ankara-İstanbul", 1100);
+            //routes.Add(route2);
+            //Route route3 = new Route("İstanbul-İzmir", 400);
+            //routes.Add(route3);
             Console.WriteLine("********************************************\n18 yaşından küçüklere %50 indirim uygulanır.");
             while (true)
             {
@@ -45,11 +50,11 @@
                         int ticketCount = int.Parse(Console.ReadLine());
                         for (int i = 0; i < ticketCount; i++)
                         {
-                            Console.Write($"********************************************\nLütfen {i+1}. yolcunun adını giriniz: ");
+                            Console.Write($"********************************************\nLütfen {i + 1}. yolcunun adını giriniz: ");
                             string passengerName = Console.ReadLine();
-                            Console.Write($"Lütfen {i+1}. yolcunun yaşını giriniz: ");
+                            Console.Write($"Lütfen {i + 1}. yolcunun yaşını giriniz: ");
                             int passengerAge = int.Parse(Console.ReadLine());
-                            Console.Write($"Lütfen {i+1}. yolcunun güzergahı seçiniz: ");
+                            Console.Write($"Lütfen {i + 1}. yolcunun güzergahı seçiniz: ");
                             int routeChoice = int.Parse(Console.ReadLine());
                             Ticket ticket = new Ticket(passengerName, passengerAge, routes[routeChoice - 1]);
                             tickets.Add(ticket);

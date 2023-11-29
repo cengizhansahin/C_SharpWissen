@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SinifCalisma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ffc116d34c7687f7123b2ddc9ec709171dfeb86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SinifCalisma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SinifCalisma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

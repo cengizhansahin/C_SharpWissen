@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BiletOtomasyonSistemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b17fc2afeb3d8c17819adde67998f233dabdebfa")]
 [assembly: System.Reflection.AssemblyProductAttribute("BiletOtomasyonSistemi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BiletOtomasyonSistemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
