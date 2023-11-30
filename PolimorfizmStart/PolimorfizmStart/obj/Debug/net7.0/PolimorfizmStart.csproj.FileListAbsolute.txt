@@ -1,0 +1,14 @@
+C:\Users\BRIGHT\Desktop\PolimorfizmStart\PolimorfizmStart\bin\Debug\net7.0\PolimorfizmStart.exe
+C:\Users\BRIGHT\Desktop\PolimorfizmStart\PolimorfizmStart\bin\Debug\net7.0\PolimorfizmStart.deps.json
+C:\Users\BRIGHT\Desktop\PolimorfizmStart\PolimorfizmStart\bin\Debug\net7.0\PolimorfizmStart.runtimeconfig.json
+C:\Users\BRIGHT\Desktop\PolimorfizmStart\PolimorfizmStart\bin\Debug\net7.0\PolimorfizmStart.dll
+C:\Users\BRIGHT\Desktop\PolimorfizmStart\PolimorfizmStart\bin\Debug\net7.0\PolimorfizmStart.pdb
+C:\Users\BRIGHT\Desktop\PolimorfizmStart\PolimorfizmStart\obj\Debug\net7.0\PolimorfizmStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIGHT\Desktop\PolimorfizmStart\PolimorfizmStart\obj\Debug\net7.0\PolimorfizmStart.AssemblyInfoInputs.cache
+C:\Users\BRIGHT\Desktop\PolimorfizmStart\PolimorfizmStart\obj\Debug\net7.0\PolimorfizmStart.AssemblyInfo.cs
+C:\Users\BRIGHT\Desktop\PolimorfizmStart\PolimorfizmStart\obj\Debug\net7.0\PolimorfizmStart.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT\Desktop\PolimorfizmStart\PolimorfizmStart\obj\Debug\net7.0\PolimorfizmStart.dll
+C:\Users\BRIGHT\Desktop\PolimorfizmStart\PolimorfizmStart\obj\Debug\net7.0\refint\PolimorfizmStart.dll
+C:\Users\BRIGHT\Desktop\PolimorfizmStart\PolimorfizmStart\obj\Debug\net7.0\PolimorfizmStart.pdb
+C:\Users\BRIGHT\Desktop\PolimorfizmStart\PolimorfizmStart\obj\Debug\net7.0\PolimorfizmStart.genruntimeconfig.cache
+C:\Users\BRIGHT\Desktop\PolimorfizmStart\PolimorfizmStart\obj\Debug\net7.0\ref\PolimorfizmStart.dll

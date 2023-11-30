@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cengizhan\\Desktop\\calismalar\\tekrar\\tekrar\\tekrar.csproj": {}
+    "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\tekrar\\tekrar\\tekrar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cengizhan\\Desktop\\calismalar\\tekrar\\tekrar\\tekrar.csproj": {
+    "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\tekrar\\tekrar\\tekrar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cengizhan\\Desktop\\calismalar\\tekrar\\tekrar\\tekrar.csproj",
+        "projectUniqueName": "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\tekrar\\tekrar\\tekrar.csproj",
         "projectName": "tekrar",
-        "projectPath": "C:\\Users\\cengizhan\\Desktop\\calismalar\\tekrar\\tekrar\\tekrar.csproj",
-        "packagesPath": "C:\\Users\\cengizhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cengizhan\\Desktop\\calismalar\\tekrar\\tekrar\\obj\\",
+        "projectPath": "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\tekrar\\tekrar\\tekrar.csproj",
+        "packagesPath": "C:\\Users\\BRIGHT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BRIGHT\\Desktop\\C_SharpWissen\\tekrar\\tekrar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cengizhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BRIGHT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
