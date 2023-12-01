@@ -49,7 +49,8 @@
             string routeName = Console.ReadLine();
             Console.Write("Güzergah fiyatı: ");
             double basePrice = double.Parse(Console.ReadLine());
-            ticketSystem.routes.Add(new Route(routeName, basePrice));
+            //ticketSystem.routes.Add(new Route(routeName, basePrice));
+            ticketSystem.addRoute(routeName, basePrice);
             Console.Clear();
         }
         public static void sellTicket(TicketSystem ticketSystem)

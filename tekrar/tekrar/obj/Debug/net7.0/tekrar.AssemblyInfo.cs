@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tekrar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b3e80928cc8eaf6c4580396d36003c33eb4680f")]
 [assembly: System.Reflection.AssemblyProductAttribute("tekrar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tekrar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

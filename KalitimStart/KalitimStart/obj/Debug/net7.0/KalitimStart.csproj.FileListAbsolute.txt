@@ -1,0 +1,14 @@
+C:\Users\cengizhan\Desktop\KalitimStart\KalitimStart\bin\Debug\net7.0\KalitimStart.exe
+C:\Users\cengizhan\Desktop\KalitimStart\KalitimStart\bin\Debug\net7.0\KalitimStart.deps.json
+C:\Users\cengizhan\Desktop\KalitimStart\KalitimStart\bin\Debug\net7.0\KalitimStart.runtimeconfig.json
+C:\Users\cengizhan\Desktop\KalitimStart\KalitimStart\bin\Debug\net7.0\KalitimStart.dll
+C:\Users\cengizhan\Desktop\KalitimStart\KalitimStart\bin\Debug\net7.0\KalitimStart.pdb
+C:\Users\cengizhan\Desktop\KalitimStart\KalitimStart\obj\Debug\net7.0\KalitimStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengizhan\Desktop\KalitimStart\KalitimStart\obj\Debug\net7.0\KalitimStart.AssemblyInfoInputs.cache
+C:\Users\cengizhan\Desktop\KalitimStart\KalitimStart\obj\Debug\net7.0\KalitimStart.AssemblyInfo.cs
+C:\Users\cengizhan\Desktop\KalitimStart\KalitimStart\obj\Debug\net7.0\KalitimStart.csproj.CoreCompileInputs.cache
+C:\Users\cengizhan\Desktop\KalitimStart\KalitimStart\obj\Debug\net7.0\KalitimStart.dll
+C:\Users\cengizhan\Desktop\KalitimStart\KalitimStart\obj\Debug\net7.0\refint\KalitimStart.dll
+C:\Users\cengizhan\Desktop\KalitimStart\KalitimStart\obj\Debug\net7.0\KalitimStart.pdb
+C:\Users\cengizhan\Desktop\KalitimStart\KalitimStart\obj\Debug\net7.0\KalitimStart.genruntimeconfig.cache
+C:\Users\cengizhan\Desktop\KalitimStart\KalitimStart\obj\Debug\net7.0\ref\KalitimStart.dll
