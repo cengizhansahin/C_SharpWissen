@@ -1,0 +1,14 @@
+C:\Users\BRIGHT\Desktop\Interfaceler\Interfaceler\bin\Debug\net7.0\Interfaceler.exe
+C:\Users\BRIGHT\Desktop\Interfaceler\Interfaceler\bin\Debug\net7.0\Interfaceler.deps.json
+C:\Users\BRIGHT\Desktop\Interfaceler\Interfaceler\bin\Debug\net7.0\Interfaceler.runtimeconfig.json
+C:\Users\BRIGHT\Desktop\Interfaceler\Interfaceler\bin\Debug\net7.0\Interfaceler.dll
+C:\Users\BRIGHT\Desktop\Interfaceler\Interfaceler\bin\Debug\net7.0\Interfaceler.pdb
+C:\Users\BRIGHT\Desktop\Interfaceler\Interfaceler\obj\Debug\net7.0\Interfaceler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIGHT\Desktop\Interfaceler\Interfaceler\obj\Debug\net7.0\Interfaceler.AssemblyInfoInputs.cache
+C:\Users\BRIGHT\Desktop\Interfaceler\Interfaceler\obj\Debug\net7.0\Interfaceler.AssemblyInfo.cs
+C:\Users\BRIGHT\Desktop\Interfaceler\Interfaceler\obj\Debug\net7.0\Interfaceler.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT\Desktop\Interfaceler\Interfaceler\obj\Debug\net7.0\Interfaceler.dll
+C:\Users\BRIGHT\Desktop\Interfaceler\Interfaceler\obj\Debug\net7.0\refint\Interfaceler.dll
+C:\Users\BRIGHT\Desktop\Interfaceler\Interfaceler\obj\Debug\net7.0\Interfaceler.pdb
+C:\Users\BRIGHT\Desktop\Interfaceler\Interfaceler\obj\Debug\net7.0\Interfaceler.genruntimeconfig.cache
+C:\Users\BRIGHT\Desktop\Interfaceler\Interfaceler\obj\Debug\net7.0\ref\Interfaceler.dll
