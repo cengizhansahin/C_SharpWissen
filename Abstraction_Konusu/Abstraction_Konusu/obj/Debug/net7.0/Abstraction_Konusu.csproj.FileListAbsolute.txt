@@ -1,0 +1,14 @@
+C:\Users\BRIGHT\Desktop\Abstraction_Konusu\Abstraction_Konusu\bin\Debug\net7.0\Abstraction_Konusu.exe
+C:\Users\BRIGHT\Desktop\Abstraction_Konusu\Abstraction_Konusu\bin\Debug\net7.0\Abstraction_Konusu.deps.json
+C:\Users\BRIGHT\Desktop\Abstraction_Konusu\Abstraction_Konusu\bin\Debug\net7.0\Abstraction_Konusu.runtimeconfig.json
+C:\Users\BRIGHT\Desktop\Abstraction_Konusu\Abstraction_Konusu\bin\Debug\net7.0\Abstraction_Konusu.dll
+C:\Users\BRIGHT\Desktop\Abstraction_Konusu\Abstraction_Konusu\bin\Debug\net7.0\Abstraction_Konusu.pdb
+C:\Users\BRIGHT\Desktop\Abstraction_Konusu\Abstraction_Konusu\obj\Debug\net7.0\Abstraction_Konusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIGHT\Desktop\Abstraction_Konusu\Abstraction_Konusu\obj\Debug\net7.0\Abstraction_Konusu.AssemblyInfoInputs.cache
+C:\Users\BRIGHT\Desktop\Abstraction_Konusu\Abstraction_Konusu\obj\Debug\net7.0\Abstraction_Konusu.AssemblyInfo.cs
+C:\Users\BRIGHT\Desktop\Abstraction_Konusu\Abstraction_Konusu\obj\Debug\net7.0\Abstraction_Konusu.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT\Desktop\Abstraction_Konusu\Abstraction_Konusu\obj\Debug\net7.0\Abstraction_Konusu.dll
+C:\Users\BRIGHT\Desktop\Abstraction_Konusu\Abstraction_Konusu\obj\Debug\net7.0\refint\Abstraction_Konusu.dll
+C:\Users\BRIGHT\Desktop\Abstraction_Konusu\Abstraction_Konusu\obj\Debug\net7.0\Abstraction_Konusu.pdb
+C:\Users\BRIGHT\Desktop\Abstraction_Konusu\Abstraction_Konusu\obj\Debug\net7.0\Abstraction_Konusu.genruntimeconfig.cache
+C:\Users\BRIGHT\Desktop\Abstraction_Konusu\Abstraction_Konusu\obj\Debug\net7.0\ref\Abstraction_Konusu.dll
