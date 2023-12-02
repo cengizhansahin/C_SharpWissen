@@ -90,7 +90,7 @@
             {
                 Console.Write("Lütfen sipariş vermek istediğiniz menü numarasını giriniz: ");
                 int siparisNo = int.Parse(Console.ReadLine());
-                if (siparisNo - 1 < restoran.menuler.Count && siparisNo - 1 > 0)
+                if (siparisNo - 1 <= restoran.menuler.Count && siparisNo - 1 >= 0)
                 {
                     restoran.SiparisAl(restoran.menuler[siparisNo - 1]);
                 }
@@ -105,7 +105,6 @@
                 Console.Clear();
                 Console.WriteLine("Eklenen menü olmadığı için sipariş veremezsiniz");
             }
-
         }
         public static void siparisSil(Restoran restoran)
         {
@@ -215,7 +214,7 @@
                 for (int i = 0; i < menuler.Count; i++)
                 {
                     Menu menu = menuler[i];
-                    Console.WriteLine($"\nMenuler\n**********\n{i + 1}. Menü\nAna yemek adı: {menu.AnaYemek.YemekBilgisiYazdir()}\nTatlı adı: {menu.Tatli.YemekBilgisiYazdir()}\nİçecek adı: {menu.Icecek.YemekBilgisiYazdir()}\nToplam fiyat: {menu.ToplamFiyatHesapla()} TL\n**********");
+                    Console.WriteLine($"\nMenuler\n**********\n{i + 1}. Menü\n{menu.AnaYemek.YemekBilgisiYazdir()}\n{menu.Tatli.YemekBilgisiYazdir()}\n{menu.Icecek.YemekBilgisiYazdir()}\nToplam fiyat: {menu.ToplamFiyatHesapla()} TL\n**********");
                 }
             }
             else
