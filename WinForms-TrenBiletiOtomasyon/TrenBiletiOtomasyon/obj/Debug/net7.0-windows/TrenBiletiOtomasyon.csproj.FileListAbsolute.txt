@@ -1,0 +1,17 @@
+C:\Users\cengizhan\Desktop\TrenBiletiOtomasyon\TrenBiletiOtomasyon\bin\Debug\net7.0-windows\TrenBiletiOtomasyon.exe
+C:\Users\cengizhan\Desktop\TrenBiletiOtomasyon\TrenBiletiOtomasyon\bin\Debug\net7.0-windows\TrenBiletiOtomasyon.deps.json
+C:\Users\cengizhan\Desktop\TrenBiletiOtomasyon\TrenBiletiOtomasyon\bin\Debug\net7.0-windows\TrenBiletiOtomasyon.runtimeconfig.json
+C:\Users\cengizhan\Desktop\TrenBiletiOtomasyon\TrenBiletiOtomasyon\bin\Debug\net7.0-windows\TrenBiletiOtomasyon.dll
+C:\Users\cengizhan\Desktop\TrenBiletiOtomasyon\TrenBiletiOtomasyon\bin\Debug\net7.0-windows\TrenBiletiOtomasyon.pdb
+C:\Users\cengizhan\Desktop\TrenBiletiOtomasyon\TrenBiletiOtomasyon\obj\Debug\net7.0-windows\TrenBiletiOtomasyon.Form1.resources
+C:\Users\cengizhan\Desktop\TrenBiletiOtomasyon\TrenBiletiOtomasyon\obj\Debug\net7.0-windows\TrenBiletiOtomasyon.csproj.GenerateResource.cache
+C:\Users\cengizhan\Desktop\TrenBiletiOtomasyon\TrenBiletiOtomasyon\obj\Debug\net7.0-windows\TrenBiletiOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengizhan\Desktop\TrenBiletiOtomasyon\TrenBiletiOtomasyon\obj\Debug\net7.0-windows\TrenBiletiOtomasyon.AssemblyInfoInputs.cache
+C:\Users\cengizhan\Desktop\TrenBiletiOtomasyon\TrenBiletiOtomasyon\obj\Debug\net7.0-windows\TrenBiletiOtomasyon.AssemblyInfo.cs
+C:\Users\cengizhan\Desktop\TrenBiletiOtomasyon\TrenBiletiOtomasyon\obj\Debug\net7.0-windows\TrenBiletiOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\cengizhan\Desktop\TrenBiletiOtomasyon\TrenBiletiOtomasyon\obj\Debug\net7.0-windows\TrenBiletiOtomasyon.dll
+C:\Users\cengizhan\Desktop\TrenBiletiOtomasyon\TrenBiletiOtomasyon\obj\Debug\net7.0-windows\refint\TrenBiletiOtomasyon.dll
+C:\Users\cengizhan\Desktop\TrenBiletiOtomasyon\TrenBiletiOtomasyon\obj\Debug\net7.0-windows\TrenBiletiOtomasyon.pdb
+C:\Users\cengizhan\Desktop\TrenBiletiOtomasyon\TrenBiletiOtomasyon\obj\Debug\net7.0-windows\TrenBiletiOtomasyon.genruntimeconfig.cache
+C:\Users\cengizhan\Desktop\TrenBiletiOtomasyon\TrenBiletiOtomasyon\obj\Debug\net7.0-windows\ref\TrenBiletiOtomasyon.dll
+C:\Users\cengizhan\Desktop\TrenBiletiOtomasyon\TrenBiletiOtomasyon\obj\Debug\net7.0-windows\TrenBiletiOtomasyon.sourcelink.json
