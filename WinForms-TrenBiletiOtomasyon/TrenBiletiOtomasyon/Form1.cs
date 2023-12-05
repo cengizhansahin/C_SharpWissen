@@ -20,6 +20,7 @@ namespace TrenBiletiOtomasyon
                 text_bosKoltukSayisi.Text = guzergahlar[0].KoltukSayisi.ToString();
                 text_toplamCiro.Text = "0";
                 MessageBox.Show("Güzergah oluþturuldu.");
+                btnOlustur.Enabled = false;
             }
             else
             {
