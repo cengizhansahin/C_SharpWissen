@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YemekSiparisSistemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4aace4b2de817625390a3c620c1fa017bb2597f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b04b18f75c903e06b7cfc2ef016d43425f3a65eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("YemekSiparisSistemi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YemekSiparisSistemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

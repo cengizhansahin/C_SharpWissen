@@ -230,7 +230,7 @@
         {
             siparisler.Add(new Siparis(menu));
         }
-
+        //deneme yapıldı
         public void SiparisleriGoster()
         {
             if (siparisler.Count > 0)
